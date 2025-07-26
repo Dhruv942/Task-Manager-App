@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager App
 
 A React Native task management application with Firebase integration, featuring task filtering, swipe gestures, and real-time updates.
@@ -94,3 +95,6 @@ src/
 ✅ **Left Swipe Delete**: Delete tasks with confirmation
 ✅ **User Authentication**: Secure task management per user
 ✅ **Real-time Updates**: Live task updates across devices
+=======
+# Task-Manager-App
+>>>>>>> 8f448c3bc69602c96c27a0b4ab9265f2aeca9adb
